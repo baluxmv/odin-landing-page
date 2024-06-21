@@ -18,6 +18,13 @@ p {
 
 
 /* Header Section */
+.header-hero-container {
+    width: 100%;
+    max-width: 1200px;
+    padding: 20px;
+    background-color: #1F2937;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -61,10 +68,6 @@ p {
     max-width: 600px;
 }
 
-.header-hero-container {
-    background-color: #1F2937;
-    padding: 20px;
 
-  }
 
 
