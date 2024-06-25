@@ -195,3 +195,10 @@ p {
     align-items: center;
     padding: 60px 60px;
 }
+
+.cta {
+    display: flex;
+    flex-direction: column;
+
+}
+
