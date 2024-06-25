@@ -193,12 +193,30 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 60px 60px;
+    padding: 60px 80px;
+    margin: 0;
+    width: 100%;
+    
 }
 
 .cta {
     display: flex;
-    flex-direction: column;
-
+    justify-content: space-around;
+    padding: 40px 60px;
+    background-color: #3882F6;
+    border-radius: 10px;
 }
 
+.cta-main-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+
+.cta-sub-text{
+    font-size: 18px;
+}
+
+.cta > .cta-button {
+    border-style: solid;
+}
