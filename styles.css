@@ -185,3 +185,13 @@ p {
     text-align: right;
     width: 100%;
 }
+
+
+
+/* Call to Action Section */
+.call-to-action-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 60px;
+}
