@@ -235,3 +235,21 @@ p {
     cursor: pointer;
     border-radius: 10px;
 }
+
+
+
+/* Footer Section */
+.footer-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #1F2937;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 40px;
+}
